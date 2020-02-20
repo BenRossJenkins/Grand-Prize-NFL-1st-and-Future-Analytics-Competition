@@ -3,6 +3,8 @@ Provided here are some of my analyses in which I was selected as one of three fi
 
 Link to Kaggle Competition: https://www.kaggle.com/c/nfl-playing-surface-analytics/overview
 
+Link to Kaggle Notebook: https://www.kaggle.com/benjenkins96/nfl-1st-and-future-analysis
+
 Link to NFL Press Release: https://operations.nfl.com/updates/football-ops/nfl-announces-winners-of-5th-annual-1st-and-future-super-bowl-event/
 
 Link to Competition Video: https://www.youtube.com/watch?v=GCt0VtS-Ctc
